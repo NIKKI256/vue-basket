@@ -1,21 +1,7 @@
 LINK https://nikki256.github.io/vue-basket/
 
-# vue-basket
+Иногда приложение работает не корректно со скидкой , если кто может или понимает в чём дело - помогите, вы очень меня выручите
 
-## Project setup
-```
-npm install
-```
+Sometimes the application does not work correctly with a discount, if someone can or understands what the matter is - help me, you will help me a lot
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+nekitborov@gmail.com - почта для связи со мной / this is my email 
